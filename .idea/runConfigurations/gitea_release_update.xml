@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="gitee_release_update" type="GoApplicationRunConfiguration" factoryName="Go Application">
+  <configuration default="false" name="gitea_release_update" type="GoApplicationRunConfiguration" factoryName="Go Application">
     <module name="hrss_update" />
     <working_directory value="$PROJECT_DIR$" />
     <go_parameters value="-o hrss_update" />
