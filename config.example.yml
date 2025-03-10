@@ -1,0 +1,12 @@
+# Gitea release api url
+url: "http://gitea url/api/v1/your repos/user/repo/releases"
+# Gitea token
+token: ""
+# Download directory
+download_dir: "download"
+# Download files
+download_files:
+#  - "application.yml"
+#  - "application-druid.yml"
+#  - "application.yml.sha256"
+#  - "application-druid.yml.sha256"

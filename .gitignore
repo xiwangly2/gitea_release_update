@@ -1,0 +1,11 @@
+*.bak
+hrss.jar
+dist.zip
+application.yml
+application-druid.yml
+download/*
+hrss_update
+hrss_update.exe
+config.yml
+latest_version.txt
+current_version.txt
