@@ -1,4 +1,4 @@
-module hrss_update
+module gitee_release_update
 
 go 1.24.1
 

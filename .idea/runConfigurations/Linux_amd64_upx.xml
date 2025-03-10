@@ -1,8 +1,8 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="构建Linux_amd64+upx" type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value="upx -9 hrss_update" />
+    <option name="SCRIPT_TEXT" value="upx -9 gitee_release_update" />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-    <option name="SCRIPT_PATH" value="upx -9 hrss_update" />
+    <option name="SCRIPT_PATH" value="upx -9 gitee_release_update" />
     <option name="SCRIPT_OPTIONS" value="" />
     <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
     <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -13,7 +13,7 @@
     <option name="EXECUTE_SCRIPT_FILE" value="false" />
     <envs />
     <method v="2">
-      <option name="RunConfigurationTask" enabled="true" run_configuration_name="hrss_update" run_configuration_type="GoApplicationRunConfiguration" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="gitee_release_update" run_configuration_type="GoApplicationRunConfiguration" />
     </method>
   </configuration>
 </component>

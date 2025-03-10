@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="go build gitea_release_update" type="GoApplicationRunConfiguration" factoryName="Go Application">
-    <module name="hrss_update" />
+    <module name="gitee_release_update" />
     <working_directory value="$PROJECT_DIR$" />
     <kind value="PACKAGE" />
-    <package value="hrss_update" />
+    <package value="gitee_release_update" />
     <directory value="$PROJECT_DIR$" />
     <filePath value="$PROJECT_DIR$" />
     <method v="2" />

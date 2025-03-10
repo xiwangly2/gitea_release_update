@@ -1,15 +1,15 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="gitea_release_update" type="GoApplicationRunConfiguration" factoryName="Go Application">
-    <module name="hrss_update" />
+    <module name="gitee_release_update" />
     <working_directory value="$PROJECT_DIR$" />
-    <go_parameters value="-o hrss_update" />
+    <go_parameters value="-o gitee_release_update" />
     <useCustomBuildTags value="true" />
     <envs>
       <env name="GOARCH" value="amd64" />
       <env name="GOOS" value="linux" />
     </envs>
     <kind value="PACKAGE" />
-    <package value="hrss_update" />
+    <package value="gitee_release_update" />
     <directory value="$PROJECT_DIR$" />
     <filePath value="$PROJECT_DIR$" />
     <output_directory value="$PROJECT_DIR$" />
